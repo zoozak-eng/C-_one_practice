@@ -3,7 +3,7 @@
 #screen shot 1
 
 how to output welcome in button
-![Creating button with out but welcom](Screenshots/first%20day%20c#.png)
+![Creating button with output welcom](Screenshots/first%20day%20c#.png)
 
 #screenshot 2
 cleearing text box and labale
