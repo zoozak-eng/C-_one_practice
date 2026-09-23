@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\bin\Debug\Home assignmentt.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\bin\Debug\Home assignmentt.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\bin\Debug\Home assignmentt.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home_assignmentt.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home_assignmentt.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Home assignmentt\Home assignmentt\obj\Debug\Home assignmentt.exe.config
