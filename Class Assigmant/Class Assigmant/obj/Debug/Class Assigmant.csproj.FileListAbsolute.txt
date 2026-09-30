@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\bin\Debug\Class Assigmant.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\bin\Debug\Class Assigmant.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\bin\Debug\Class Assigmant.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class_Assigmant.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class_Assigmant.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Class Assigmant\Class Assigmant\obj\Debug\Class Assigmant.exe.config
